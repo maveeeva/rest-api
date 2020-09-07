@@ -1,0 +1,9 @@
+com\example\bootrest\controllers\StudentDeleteController.class
+com\example\bootrest\SpringBootRest2Application.class
+com\example\bootrest\beans\StudentRegistrationReply.class
+com\example\bootrest\controllers\StudentServiceController.class
+com\example\bootrest\beans\StudentRegistration.class
+com\example\bootrest\controllers\StudentRegistrationController.class
+com\example\bootrest\controllers\StudentUpdateController.class
+com\example\bootrest\controllers\StudentRetrieveController.class
+com\example\bootrest\beans\Student.class
